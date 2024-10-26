@@ -11,11 +11,8 @@ JavaScript: Para agregar interactividad y mejorar la navegación.
 
 Estructura de la Página
 Inicio: imagen de un paisaje
-Pingüinos, Pomeranias, Gatos, Conejos, Loros y Pantera Negra: Sección dedicada a cada especie con datos específicos y curiosidades.
+Pingüinos, Pomeranias, Gatos, Conejos, Loros y Pantera Negra: Sección dedicada a cada especie con datos específicos.
 Galería: Fotos y videos de cada uno de los animales.
 Contacto: Espacio para que los visitantes puedan enviar preguntas o sugerencias.
-
-Contribuciones
-Las contribuciones son bienvenidas. ¡Ayúdanos a mejorar Mundo Animalia y crear un espacio más completo para los amantes de los animales!
 
 ¡Gracias por visitar Mundo Animalia!
